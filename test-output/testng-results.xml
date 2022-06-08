@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-08T23:21:17 IST" name="Default suite" finished-at="2022-06-08T23:21:17 IST" duration-ms="42">
+    <groups>
+    </groups>
+    <test started-at="2022-06-08T23:21:17 IST" name="Default test" finished-at="2022-06-08T23:21:17 IST" duration-ms="42">
+      <class name="SubratTesting.MavenJavaFramework.SeleniumTest">
+        <test-method signature="browserAutomation()[pri:0, instance:SubratTesting.MavenJavaFramework.SeleniumTest@71b1176b]" started-at="2022-06-08T23:21:17 IST" name="browserAutomation" finished-at="2022-06-08T23:21:17 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+      </class> <!-- SubratTesting.MavenJavaFramework.SeleniumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
